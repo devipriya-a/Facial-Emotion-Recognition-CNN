@@ -18,5 +18,5 @@ Datasets used:
 HOG-CNN achieved the best performance, especially on small datasets like CK+.
 
 ## Author
-Devipriya A 
+Devipriya A  & Kartik Srivastava
 MSDSM, IIM Amritsar
